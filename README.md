@@ -11,8 +11,8 @@ Group 4
 
 <p align="center"> 
 **TITLE OF THE PROJECT** <br>
-**IIUM FUTSAL
-**
+IIUM FUTSAL
+
 <p align="center"> Introduction: <br>
   
 Welcome to the IIUM Futsal Web Application, a game-changing tool that has been carefully designed to be more than just a digital area. It reflects the balance that exists between our passion for futsal and our unshakable dedication to Shariah compliance. This application, as the beating heart of the International Islamic University Malaysia (IIUM) futsal community, goes on a quest to unite enthusiasts while preserving Islamic ethical norms. <br> 
