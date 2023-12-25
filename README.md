@@ -10,7 +10,7 @@ Group 4
 
 
 <p align="center"> 
-**TITLE OF THE PROJECT** <br>
+<strong>TITLE OF THE PROJECT</strong> <br> 
 IIUM FUTSAL
 
 <p align="center"> Introduction: <br>
