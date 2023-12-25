@@ -11,7 +11,7 @@ Group 4
 
 <p align="center"> 
 <strong>TITLE OF THE PROJECT</strong> <br> 
-IIUM FUTSAL
+<strong>IIUM FUTSAL</strong>
 
 <p align="center"> Introduction: <br>
   
