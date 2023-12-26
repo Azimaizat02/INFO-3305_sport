@@ -34,9 +34,12 @@ The website also seeks to be a credible source of information, providing real-ti
 - Player
 <br> Explore profiles of IIUM futsal players to learn more about their abilities, accomplishments, and contributions to the team. Individual player profiles contain complete information, allowing fans to engage with the players representing IIUM. <br>
 - About Us
+<br> Provides a thorough explanation of IIUM Futsal, including its history, mission, and vision. A part dedicated to providing background information and increasing awareness and admiration for the team and its goals. <br>
 - News
+<br> Keeps users up to date on the newest IIUM Futsal news, activities, and advancements. Real-time news stream that includes articles, announcements, and event coverage to keep the community informed and involved. <br>
 - Donation
+<br> In conformity with Islamic ideals, it facilitates charitable contributions for the benefit of the less fortunate. It is a safe donation platform that guarantees openness, accountability, and the ability to give to worthwhile causes. <br>
 - Ticket
+<br> Users can buy tickets for IIUM Futsal events and matches. It is a user-friendly ticketing system with safe online transactions that promotes event accessibility and community participation.
 - Standing
-
-<br> 
+<br> Updates futsal league standings, player data, and match results in real time. Dynamic charts and tables display the team's performance and league standing, keeping spectators involved and informed about the competitive side of futsal. <br> 
