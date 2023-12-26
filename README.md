@@ -29,10 +29,14 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>Features and functionalities</strong> <br>
-- merchandise
-- player
-- about
-- news
-- donation
-- ticket
-- standing
+- Merchandise
+<br> Users can utilize this app to view and purchase official IIUM Futsal products online. It is a user-friendly e-commerce platform that displays various futsal-related products while encouraging team spirit and solidarity among supporters. <br>
+- Player
+<br> Explore profiles of IIUM futsal players to learn more about their abilities, accomplishments, and contributions to the team. Individual player profiles contain complete information, allowing fans to engage with the players representing IIUM. <br>
+- About Us
+- News
+- Donation
+- Ticket
+- Standing
+
+<br> 
