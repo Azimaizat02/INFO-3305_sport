@@ -34,5 +34,5 @@ The website also seeks to be a credible source of information, providing real-ti
 - about
 - news
 - donation
-- ticket
+- ticket 
 - standing
