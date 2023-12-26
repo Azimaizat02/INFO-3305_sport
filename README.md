@@ -25,6 +25,9 @@ At the heart of our mission is a commitment to Shariah compliance that extends b
 
 The IIUM Futsal Web Application has been intentionally designed to serve as the key center for the International Islamic University Malaysia (IIUM) futsal community. Our major goal is to build a sense of community and togetherness among futsal lovers by providing a dedicated online space for connection, engagement, and the shared celebration of futsal enthusiasm. <br> 
 
+The website also seeks to be a credible source of information, providing real-time updates, news, and events about IIUM futsal to keep the community informed and interested. Our aim includes the promotion of ethical athletic values based on Islamic teachings and sportsmanship. The website facilitates transparent and Shariah-compliant online transactions for the purchase of official IIUM Futsal products and event tickets, with financial transparency being a key focus. The money will be given to the needy. We also have a donation page for people to donate to the ones in need. <br> 
+
+
 <strong>Features and functionalities</strong> <br>
 - merchandise
 - player
@@ -33,7 +36,3 @@ The IIUM Futsal Web Application has been intentionally designed to serve as the 
 - donation
 - ticket
 - standing
-
-The website also seeks to be a credible source of information, providing real-time updates, news, and events about IIUM futsal to keep the community informed and interested. Our aim includes the promotion of ethical athletic values based on Islamic teachings and sportsmanship. The website facilitates transparent and Shariah-compliant online transactions for the purchase of official IIUM Futsal products and event tickets, with financial transparency being a key focus. The money will be given to the needy. We also have a donation page for people to donate to the ones in need. <br> 
-
-
