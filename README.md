@@ -19,6 +19,14 @@ Welcome to the IIUM Futsal Web Application, a game-changing tool that has been c
 
 In a world where connectivity is vital, the IIUM Futsal Web Application serves as a hub for futsal enthusiasts, providing an immersive experience that is consistent with Shariah principles. Every aspect of our digital area is built with a continuous commitment to ethical and Islamic values, whether you're looking for the latest information, participating in community conversations, or researching the rich history of IIUM futsal. <br>
 
+<strong>Features and functionalities</strong> <br>
+- merchandise
+- player
+- about
+- news
+- donation
+- ticket
+- standing
 At the heart of our mission is a commitment to Shariah compliance that extends beyond the traditional limitations of sports platforms. The IIUM Futsal Web Application promotes the concept that passion and principles may coexist. Join us in this digital domain where futsal passion meets the timeless wisdom of Shariah, creating a venue that not only celebrates the sport but also fosters a sense of community through Islamic ideals. <br>
 
 <p align="center"> Objective: <br>
