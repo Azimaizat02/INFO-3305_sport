@@ -50,4 +50,7 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>References</strong> <br>
+Liverpool official page:
 https://www.liverpoolfc.com/
+JDT official page:
+https://johorsoutherntigers.my/
