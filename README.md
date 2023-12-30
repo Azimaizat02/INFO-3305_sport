@@ -47,3 +47,7 @@ The website also seeks to be a credible source of information, providing real-ti
 
 <strong>Entity Relationship Diagram</strong> <br>
 ![Screenshot 2023-12-29 213000](https://github.com/Azimaizat02/INFO-3305_sport/assets/31058112/5fdb8f23-b74e-482b-bf26-17dc1bfba481)
+
+
+<strong>References</strong> <br>
+https://www.liverpoolfc.com/
