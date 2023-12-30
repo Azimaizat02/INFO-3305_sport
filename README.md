@@ -30,7 +30,7 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>Features and functionalities</strong> <br>
-- Merchandise
+- Merchandise/Product
 <br> Users can utilize this app to view and purchase official IIUM Futsal products online. It is a user-friendly e-commerce platform that displays various futsal-related products while encouraging team spirit and solidarity among supporters. <br>
 - Player
 <br> Explore profiles of IIUM futsal players to learn more about their abilities, accomplishments, and contributions to the team. Individual player profiles contain complete information, allowing fans to engage with the players representing IIUM. <br>
@@ -40,10 +40,9 @@ The website also seeks to be a credible source of information, providing real-ti
 <br> Keeps users up to date on the newest IIUM Futsal news, activities, and advancements. Real-time news stream that includes articles, announcements, and event coverage to keep the community informed and involved. <br>
 - Donation
 <br> In conformity with Islamic ideals, it facilitates charitable contributions for the benefit of the less fortunate. It is a safe donation platform that guarantees openness, accountability, and the ability to give to worthwhile causes. <br>
-
 - Ticket
 <br> Users can buy tickets for IIUM Futsal events and matches. It is a user-friendly ticketing system with safe online transactions that promotes event accessibility and community participation.
-- Standing
+- Standing/Match
 <br> Updates futsal league standings, player data, and match results in real time. Dynamic charts and tables display the team's performance and league standing, keeping spectators involved and informed about the competitive side of futsal. <br> 
 
 <strong>Entity Relationship Diagram</strong> <br>
