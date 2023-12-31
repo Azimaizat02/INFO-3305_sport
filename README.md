@@ -51,7 +51,10 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>Sequence diagram</strong> <br>
-<img src="INFO-3305_sport/sequence%20diagram/webapp-donation.jpg">
+<img src="sequence diagram/webapp-login.jpg">
+<img src="sequence diagram/webapp-ticket.jpg">
+<img src="sequence diagram/webapp-merchandise.jpg">
+<img src="sequence diagram/webapp-donation.jpg">
 
 <strong>References</strong> <br>
 Liverpool official page: <br>
