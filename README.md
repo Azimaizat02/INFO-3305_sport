@@ -49,6 +49,8 @@ The website also seeks to be a credible source of information, providing real-ti
 ![Screenshot 2023-12-29 213000](https://github.com/Azimaizat02/INFO-3305_sport/assets/31058112/5fdb8f23-b74e-482b-bf26-17dc1bfba481)
 
 
+<strong>Sequence diagram</strong> <br>
+
 <strong>References</strong> <br>
 Liverpool official page: <br>
 https://www.liverpoolfc.com/ <br>
