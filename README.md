@@ -31,6 +31,10 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>Features and functionalities</strong> <br>
+- Admin 
+<br> Admin can look at the records and make changes to the site. <br>
+- Sign up/Log in 
+<br> Users can sign up to the website and log in if they already created one. <br>
 - Merchandise/Product
 <br> Users can utilize this app to view and purchase official IIUM Futsal products online. It is a user-friendly e-commerce platform that displays various futsal-related products while encouraging team spirit and solidarity among supporters. <br>
 - Player
