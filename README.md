@@ -57,7 +57,7 @@ The website also seeks to be a credible source of information, providing real-ti
 <img src="sequence diagram/webapp-donation.jpg">
 
 <strong>References</strong> <br>
-Liverpool official page: <br>
-https://www.liverpoolfc.com/ <br>
+Chelsea official page: <br>
+https://www.chelseafc.com/en/ <br>
 JDT official page: <br>
 https://johorsoutherntigers.my/ <br>
