@@ -55,11 +55,11 @@ The website also seeks to be a credible source of information, providing real-ti
 
 
 <strong>Sequence diagram</strong> <br>
-<img src="sequence diagram/webapp-login.jpg">
-<img src="sequence diagram/webapp-ticket.jpg">
-<img src="sequence diagram/webapp-merchandise.jpg">
-<img src="sequence diagram/webapp-donation.jpg">
-<img src="sequence diagram/admin [MConverter.eu].jpg">
+<img src="proposal/sequence diagram/webapp-login.jpg">
+<img src="proposal/sequence diagram/webapp-ticket.jpg">
+<img src="proposal/sequence diagram/webapp-merchandise.jpg">
+<img src="proposal/sequence diagram/webapp-donation.jpg">
+<img src="proposal/sequence diagram/admin [MConverter.eu].jpg">
 
 <strong>References</strong> <br>
 Chelsea official page: <br>
